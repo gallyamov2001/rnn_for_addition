@@ -5,7 +5,7 @@
 ## Модель
 Модель представляет собой три слоя LSTM и Dense-слой. Кол-во параметров: 468,492.
 
-Более подробное описание исходной работы <a href="[https://github.com/gallyamov2001/watson_bot/tree/main/bot](https://keras.io/examples/nlp/addition_rnn/)">addition_rnn</a>.
+Более подробное описание исходной работы <a href="[https://github.com/gallyamov2001/watson_bot/tree/main/bot](https://keras.io/examples/nlp/addition_rnn/)">addition_rnn</a>
 
 В разделе <a href="https://github.com/gallyamov2001/watson_bot/tree/main/workspace">workspace</a> находятся ноутбуки, где проходило дообучение модели, сбор результатов.
 
